@@ -24,6 +24,8 @@ h2 {
 table {
     border-collapse: collapse;
     width: 100%;
+    border-top: 15px solid white;
+    border-bottom: 15px solid white;
 }
 
 th, td {
@@ -130,4 +132,12 @@ a:active {
     cursor: pointer;
     border-radius: 0px;
     text-decoration: underline;
+}
+
+.right {
+	float: right;
+}
+
+.left {
+	float: left;
 }
