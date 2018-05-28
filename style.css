@@ -143,3 +143,8 @@ a:active {
 	float: left;
 	padding-right: 10px;
 }
+
+#title {
+	width: 10%;
+	height: 10%;
+}
